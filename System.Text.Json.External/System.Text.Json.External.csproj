@@ -2,6 +2,7 @@
 
   <PropertyGroup>
 	  <TargetFramework>netstandard2.0</TargetFramework>
+	  <RootNamespace>System.Text.Json.External</RootNamespace>
 	  <LangVersion>10.0</LangVersion>
   </PropertyGroup>
 
